@@ -1,6 +1,6 @@
 # Portfolio
 
-Hello! This is my portfolio file. Below I will list some projects and demos, that I was made ever.
+Hello! This is my portfolio file. Below I will list some projects sources and demos, that I was made ever.
 
 Most of my code is covered by NDAs, so, I will publish a link to a public sites, and give the sources where it possible.
 
