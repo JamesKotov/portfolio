@@ -32,7 +32,7 @@ Single page application. This is only demo of early beta-version of application,
 with real backend server. But some base functionality is available, and you can try it on http://test2.strigo.ru
 (credentials is test@test.com and 123 as password).
 
-Tech stack is Angular 5, typescript, Globalize.js for localization engine, Angular CLI, Bootstrap 3.
+Tech stack is Angular 5, typescript, Redux, Globalize.js for localization engine, Angular CLI, Bootstrap 3.
 
 ## iOS banking application integration with Apple Pay.
 
