@@ -120,6 +120,14 @@ some documentation (in russian, sorry) - http://hostcmsblog.ru/blog/extendedfilt
 
 Tech stack: PHP 5+, MySQL, XSLT, javascript, css, html, HostCMS.
 
+## API Example
+
+Developed in 2019
+
+Test work for interview - yet another book store api. Every book may have many authors. 
+
+Tech stack: Node.js, Koa, MySQL
+
 ## Cloud storage example
 
 Developed in 2018
