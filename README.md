@@ -124,7 +124,7 @@ Tech stack: PHP 5+, MySQL, XSLT, javascript, css, html, HostCMS.
 
 Developed in 2019
 
-Test work for interview - yet another book store api. Every book may have many authors. 
+Test work for interview - yet another book store api. Every book may have many authors. https://github.com/JamesKotov/koa-db-test
 
 Tech stack: Node.js, Koa, MySQL
 
