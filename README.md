@@ -128,6 +128,38 @@ Test work for interview - yet another book store api. Every book may have many a
 
 Tech stack: Node.js, Koa, MySQL
 
+## REST API for landings service
+
+Developed in 2019
+
+Landings generator service API for Protocol.One, allowes CRUD operations with landings, publishing anl external domains set. https://github.com/ProtocolONE/ptah-api
+
+Tech stack: Node.js, Koa, MongoDB, Swagger
+
+## OAuth authorization middleware module
+
+Developed in 2019
+
+This is an NPM module Koa middleware to provide OAuth authorization for Protocol.One, using it's own auth provider (Auth1). This middleware perform login, logout, and token refresh operations. https://github.com/ProtocolONE/authone-jwt-verifier-node/
+
+Tech stack: Node.js, Koa, Redis, Ava test framework
+
+## TexJar transactions sync service
+
+Developed in 2019
+
+This is a very simple service for PaySuper infrastructure, that syncing US-based transactions from RabbitMQ queue to taxjar.com service (which is automatically calculating sales taxes)
+
+Tech stack: Go, Resty, RabbitMq
+
+## Payment links service
+
+Developed in 2019
+
+This is a service for PaySuper infrastructure, something like url shortener, that provides fullfilling shopping basket with predefined set of products and prepare order to make payment. It provides GRPC interface for communicate with main PaySuper Management Service. https://github.com/paysuper/paysuper-payment-link
+
+Tech stack: Go, GoMicro, GRPC, Redis
+
 ## Cloud storage example
 
 Developed in 2018
